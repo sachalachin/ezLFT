@@ -29,9 +29,7 @@ PASSWORD = "yourpassword"
 ## Usage
 
 You can run the program with the following terminal command:
-```python
-python main.py
-```
+```python main.py```
 ezLFT is headless unless specifically modified to show the GUI. Progress will be shown in the terminal, in addition to the order confirmation prompt at the end.
 
 ## Disclaimer
