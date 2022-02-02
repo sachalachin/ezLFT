@@ -74,7 +74,7 @@ ConfirmBox = messagebox.askquestion("Confirm Order",
                                         "Do you want to order a box of lateral flow tests to:\n" + address)
 if ConfirmBox == "yes":
     # Order LFTs
-    # driver.find_element(By.ID, "7-submit-order").click()
+    driver.find_element(By.ID, "7-submit-order").click()
     messagebox.showinfo("Order Success", "Your box of 7 lateral flow tests has been ordered.")
     print("9. Order success")
 else:
