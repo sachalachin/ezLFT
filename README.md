@@ -1,3 +1,4 @@
+
 # ezLFT
 
 ![](https://img.shields.io/github/license/sachalachin/ezLFT)
@@ -9,9 +10,10 @@ ezLFT is a Python program to speed up the process of ordering NHS COVID-19 later
 
 - Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements listed in the *requirements.txt* file:
 
-	```bash
-pip install -r requirements.txt
-```		
+ 
+
+    ```pip install -r requirements.txt```
+
 
 - The Google Chrome driver executable should be in the same directory as *main.py*. You can use the *chromedriver.exe* included in this repo, or download your own on the [ChromeDriver website](https://chromedriver.chromium.org/downloads).
 
