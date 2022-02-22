@@ -34,7 +34,7 @@ You can run the program with the following terminal command:
 ezLFT is headless unless specifically modified to show the GUI. Progress will be shown in the terminal, in addition to the order confirmation prompt at the end.
 
 ## Disclaimer
-Please use this tool responsibly and in line with the terms and conditions of the NHS services. You can only order one box of tests per day, this program is designed to help automate that process.
+Please use this tool responsibly and in line with the terms and conditions of the NHS services. You can only order one box of tests per 72 hours, this program is designed to help automate that process.
 
 
 ## License
