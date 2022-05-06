@@ -1,4 +1,5 @@
 
+# Note: This has now been archived following the withdrawal of the free LFTs service to the public. 
 # ezLFT
 
 ![](https://img.shields.io/github/license/sachalachin/ezLFT)
